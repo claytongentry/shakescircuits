@@ -1,0 +1,4 @@
+pg_ctl: another server might be running; trying to start server anyway
+server starting
+FATAL:  lock file "postmaster.pid" already exists
+HINT:  Is another postmaster (PID 1141) running in data directory "/usr/local/var/postgres9.5"?
